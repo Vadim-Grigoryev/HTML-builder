@@ -1,18 +1,21 @@
 {
   "name": "html-builder",
   "version": "1.0.0",
-  "description": "html-builder task for RSSchool",
+  "description": "---",
+  "main": ".eslintrc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js"
   },
-  "author": "evgeniimal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-Grigoryev/HTML-builder.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniiMal/html-builder-black/issues"
+    "url": "https://github.com/Vadim-Grigoryev/HTML-builder/issues"
   },
-  "homepage": "https://github.com/EvgeniiMal/html-builder-black#readme",
-  "devDependencies": {
-    "@types/node": "^16.11.4",
-    "eslint": "^7.32.0"
-  }
+  "homepage": "https://github.com/Vadim-Grigoryev/HTML-builder#readme"
 }
